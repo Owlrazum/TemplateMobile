@@ -1,7 +1,6 @@
-# UnityTemplate
+# Template for Unity project targetting mobile
 
 ## Description
 
-This is a repo that was continued from my old archived private repo. The reason was to remove all Git LFS support, because I learned of its drawbacks. See .gitattributes file for more details.
-
-There may be incomplete or redundant scripts.
+This is a bit old repo that I used when creating projects for hypercasual on mobile. <br>
+The architecture is centered around global events that any code can listen to or trigger.
