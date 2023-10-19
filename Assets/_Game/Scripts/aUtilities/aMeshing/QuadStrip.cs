@@ -3,6 +3,8 @@ using Unity.Collections;
 
 using static Orazum.Math.MathUtilities;
 
+// TODO: move it to heresy package
+
 namespace Orazum.Meshing
 {
     public struct QuadStrip
